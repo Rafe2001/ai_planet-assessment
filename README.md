@@ -26,6 +26,7 @@ This Streamlit application uses a multi-agent system to conduct market research,
 - crewai_tools
 - crewai==0.28.8
 - crewai_tools==0.1.6
+- python-dotenv
 - Streamlit
 - An OpenAI API Key, Serper API Key, and Tavily API Key. Set up `.env` with your API keys:
   ```shell
